@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+.astro/
+.wrangler/
+__pycache__/
+*.dump
+reference/
+.DS_Store
